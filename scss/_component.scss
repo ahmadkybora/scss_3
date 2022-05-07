@@ -1,0 +1,10 @@
+.form-control {
+    position: relative;
+    width: 50%;
+    height: 20px;
+    background-color: $primary;
+    border-radius: 50px;
+    &:hover {
+        border: silver solid 1px;
+    }
+}
